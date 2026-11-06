@@ -27,6 +27,11 @@ line-height: 1.5em;
 background-color: var(--fundo-principal);
 color: var(--texto);
 }
+body.escuro {
+  background-color: #121212;
+  
+}
+
 
 header {
   background-color: var(--destaque);
